@@ -1,1 +1,1 @@
-My second readme
+Updating throgh gui
